@@ -1,0 +1,15 @@
+/*	
+Selector {
+	Property: Value;
+}
+*/
+
+body {
+	background-color: #aacfcf;
+}
+
+hr {
+	background-color: black;
+	height: 1px;
+	border: none;
+}
